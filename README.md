@@ -116,7 +116,6 @@ The trained model is not included due to GitHub file size limits.
 
 You can train the model yourself using:
 
-```bash
 python train_cnn.py
 
 ---
